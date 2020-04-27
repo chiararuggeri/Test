@@ -1,6 +1,6 @@
 compile_sketch:
   tags:
-    - test
+    - linux
   script:
     - pwd
     - wget https://briki.org/download/resources/manifest.json
