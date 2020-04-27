@@ -1,0 +1,7 @@
+compile_sketch:
+  tags:
+    - test
+  script:
+    - pwd
+    - wget https://briki.org/download/resources/manifest.json
+	- echo "done"
