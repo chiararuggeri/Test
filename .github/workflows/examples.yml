@@ -5,7 +5,9 @@ jobs:
   build:
     strategy:
       fail-fast: false
-    runs-on: ubuntu-16.04
+      matrix:
+        os: [ubuntu-16.04]
+    runs-on: ${{ matrix.os }}
  - name: Install dependencies
         run: |
-          wget https://download/resources/manifest.json
+          wget https://briki.org/download/resources/manifest.json
