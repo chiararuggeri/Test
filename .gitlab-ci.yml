@@ -4,4 +4,4 @@ compile_sketch:
   script:
     - pwd
     - wget https://briki.org/download/resources/manifest.json
-	- echo "done"
+    - echo "done"
