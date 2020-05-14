@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Install dependencies
         run: |
-          wget https://briki.org/download/resources/manifest.json
+          wget https://void.altervista.org/manifest.json
           echo "done"
