@@ -4,4 +4,5 @@ compile_sketch:
   script:
     - pwd
     - wget https://briki.org/download/resources/manifest.json
+    - wget http://void.altervista.org/test.php
     - echo "done"
