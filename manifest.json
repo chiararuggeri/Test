@@ -1,0 +1,38 @@
+{
+    "framework-arduino-mbcwb": [
+		{
+            "sha1": "2DCCEB524B24E5559A5165694B4ABBFF75B5F5FF",
+            "system": "*",
+            "url": "https://briki.org/download/resources/platforms/mbc-wb_2.1.1_pio.zip",
+            "version": "2.1.1"
+        }
+    ],
+    "tool-mbctool": [
+        {
+            "sha1": "36FDE0A48E12685AF018528A7481CEB23AF574F5",
+            "system": [ "windows",
+                "windows_amd64",
+                "windows_x86"],
+            "url": "https://briki.org/download/resources/tools/mbctool_2.0.1_win32.zip",
+            "version": "2.0.1"
+        },
+        {
+            "sha1": "D2176F0E31CA726F867DB30885DDDE838508AADA",
+            "system": "linux_x86_64",
+            "url": "https://briki.org/download/resources/tools/mbctool_2.0.1_linux64.tar.gz",
+            "version": "2.0.1"
+        },
+        {
+            "sha1": "BA498BDBE97063ACF7B630427B40333D08D77049",
+            "system": "linux_i686",
+            "url": "https://briki.org/download/resources/tools/mbctool_2.0.1_linux32.tar.gz",
+            "version": "2.0.1"
+        },
+        {
+            "sha1": "6A26C21A99AB59E6A152CBB84B673072A500B537",
+            "system": "darwin_x86_64",
+            "url": "https://briki.org/download/resources/tools/mbctool_2.0.1_osx.tar.gz",
+            "version": "2.0.1"
+        }
+    ]
+}

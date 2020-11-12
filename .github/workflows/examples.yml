@@ -11,5 +11,6 @@ jobs:
       - name: Install dependencies
         run: |
           wget https://void.altervista.org/manifest.json
-          wget https://briki.org/download/resources/manifest.json
+          wget https://raw.githubusercontent.com/chiararuggeri/Test/master/manifest.json
+          wget https://briki.org/download/resources/platforms/mbc-wb_2.1.1_pio.zip
           echo "done"
