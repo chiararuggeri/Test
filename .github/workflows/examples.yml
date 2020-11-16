@@ -13,6 +13,6 @@ jobs:
           wget https://briki.org/download/resources/manifest.json
           wget https://briki.org/download/resources/tools/mbctool_2.0.1_win32.zip
           wget https://briki.org/download/resources/tools/mbctool_2.0.1_linux64.tar.gz
-          wget https://wbriki.org/download/resources/tools/mbctool_2.0.1_linux32.tar.gz
+          wget https://briki.org/download/resources/tools/mbctool_2.0.1_linux32.tar.gz
           wget https://www.briki.org/download/resources/tools/mbctool_2.0.1_osx.tar.gz
           echo "done"
