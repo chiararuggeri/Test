@@ -12,5 +12,5 @@ jobs:
         run: |
           wget https://void.altervista.org/manifest.json
           wget https://raw.githubusercontent.com/chiararuggeri/Test/master/manifest.json
-          curl https://briki.org
+          wget http://briki.org/download/resources/manifest.json
           echo "done"
